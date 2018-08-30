@@ -6,54 +6,33 @@
 
 /* quattrocento-regular - latin */
 @font-face {
-    font-family: 'Computer Modern Serif';
-    src: url('../fonts/cmunrm.eot');
-    src: url('../fonts/cmunrm.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/cmunrm.woff') format('woff'),
-    url('../fonts/cmunrm.ttf') format('truetype'),
-    url('../fonts/cmunrm.svg#cmunrm') format('svg');
-    font-weight: normal;
+    font-family: 'Quattrocento';
     font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/quattrocento-v9-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Quattrocento'),
+    url('../fonts/quattrocento-v9-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/quattrocento-v9-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/quattrocento-v9-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/quattrocento-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/quattrocento-v9-latin-regular.svg#Quattrocento') format('svg'); /* Legacy iOS */
 }
-
-
+/* quattrocento-700 - latin */
 @font-face {
-    font-family: 'Computer Modern Serif';
-    src: url('../fonts/cmunbx.eot');
-    src: url('../fonts/cmunbx.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/cmunbx.woff') format('woff'),
-    url('../fonts/cmunbx.ttf') format('truetype'),
-    url('../fonts/cmunbx.svg#cmunbx') format('svg');
-    font-weight: bold;
+    font-family: 'Quattrocento';
     font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'Computer Modern Serif';
-    src: url('../fonts/cmunti.eot');
-    src: url('../fonts/cmunti.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/cmunti.woff') format('woff'),
-    url('../fonts/cmunti.ttf') format('truetype'),
-    url('../fonts/cmunti.svg#cmunti') format('svg');
-    font-weight: normal;
-    font-style: italic;
-}
-
-
-@font-face {
-    font-family: 'Computer Modern Serif';
-    src: url('../fonts/cmunbi.eot');
-    src: url('../fonts/cmunbi.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/cmunbi.woff') format('woff'),
-    url('../fonts/cmunbi.ttf') format('truetype'),
-    url('../fonts/cmunbi.svg#cmunbi') format('svg');
-    font-weight: bold;
-    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/quattrocento-v9-latin-700.eot'); /* IE9 Compat Modes */
+    src: local('Quattrocento Bold'), local('Quattrocento-Bold'),
+    url('../fonts/quattrocento-v9-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/quattrocento-v9-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/quattrocento-v9-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/quattrocento-v9-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/quattrocento-v9-latin-700.svg#Quattrocento') format('svg'); /* Legacy iOS */
 }
 
 html {
-    font-family: 'Computer Modern Serif', Georgia, serif;
+    font-family: 'Quattrocento', Georgia, serif;
 }
 
 /*
