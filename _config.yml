@@ -25,6 +25,6 @@ github:
   repo:           https://github.com/poole/hyde
 
 # Gems
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-gist
