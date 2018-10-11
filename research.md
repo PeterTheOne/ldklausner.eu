@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and Publications
+title: Research
 navigation_weight: 20
 ---
 

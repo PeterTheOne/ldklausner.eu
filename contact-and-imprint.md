@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legal Notice
+title: Contact and Imprint
 navigation_weight: 40
 ---
 

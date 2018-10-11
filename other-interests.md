@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Projects
+title: Other Interests
 navigation_weight: 30
 ---
 

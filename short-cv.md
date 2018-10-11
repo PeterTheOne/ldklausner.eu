@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Short CV
 navigation_weight: 10
 ---
 
