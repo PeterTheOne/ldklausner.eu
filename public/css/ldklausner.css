@@ -76,6 +76,10 @@ html {
 }
 
 /* About section */
+.sidebar {
+    overflow: hidden;
+}
+
 .sidebar-about h1 {
     font-family: 'Cinzel Decorative', serif;
     font-weight: normal;
@@ -85,6 +89,17 @@ html {
 @media (min-width: 48em) {
     .sidebar {
         width: 21rem;
+    }
+}
+
+
+.sidebar-about h1 {
+    font-size: 2.25rem;
+}
+
+@media (min-height: 28em) {
+    .sidebar-about h1 {
+        font-size: 3.25rem;
     }
 }
 
