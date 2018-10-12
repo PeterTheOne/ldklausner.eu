@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="100"
-   height="100"
-   viewBox="0 0 26.458333 26.458334"
+   id="svg3719"
    version="1.1"
-   id="svg3719">
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100">
   <defs
      id="defs3713" />
   <metadata
@@ -25,24 +25,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     transform="translate(-2.0316217,-269.95108)">
+     transform="translate(-2.0316217,-269.95108)"
+     id="layer1">
     <rect
-       style="fill:#0055aa;fill-opacity:1;stroke-width:0.21650018"
-       id="rect4528"
-       width="26.458334"
-       height="26.458334"
+       y="269.95108"
        x="2.0316217"
-       y="269.95108" />
+       height="26.458334"
+       width="26.458334"
+       id="rect4528"
+       style="fill:#0055aa;fill-opacity:1;stroke-width:0.21650018" />
     <text
-       xml:space="preserve"
+       id="text4540"
+       y="293.11591"
+       x="6.2828698"
        style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="5.1606302"
-       y="294.35785"
-       id="text4540"><tspan
-         id="tspan4538"
-         x="5.1606302"
-         y="294.35785"
-         style="font-size:31.75px;fill:#ffffff;stroke-width:0.26458332">∴</tspan></text>
+       xml:space="preserve"><tspan
+         style="font-size:28.22222328px;fill:#ffffff;stroke-width:0.26458332"
+         y="293.11591"
+         x="6.2828698"
+         id="tspan4538">∴</tspan></text>
   </g>
 </svg>
