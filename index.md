@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img src="/public/images/lukas-daniel-klausner-360w.jpg" srcset="/public/images/lukas-daniel-klausner-360w.jpg, /public/images/lukas-daniel-klausner-720w.jpg 2x" alt="Lukas Daniel Klausner Portrait" style="width: 50%; float: right; margin: 0 0 0.5rem 1rem;" />
+<img src="/public/images/lukas-daniel-klausner-360w.jpg" srcset="/public/images/lukas-daniel-klausner-360w.jpg, /public/images/lukas-daniel-klausner-720w.jpg 2x" alt="Lukas Daniel Klausner Portrait" style="width: 40%; float: right; margin: 0 0 0.5rem 1rem;" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam libero turpis, sollicitudin id ex eu, suscipit hendrerit mauris. Nulla eu turpis ac velit laoreet convallis non ut mauris. Mauris ac malesuada metus. Nulla ante ipsum, bibendum in dolor a, congue finibus enim. Nulla sodales ullamcorper libero, vel commodo magna. Duis quis quam felis. Fusce vitae quam nec velit eleifend elementum sed sit amet dui. Sed rutrum at nisl eleifend sollicitudin.
 
