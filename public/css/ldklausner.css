@@ -98,12 +98,6 @@ html {
     font-weight: normal;
 }
 
-@media (min-width: 48em) {
-    .sidebar {
-        width: 21rem;
-    }
-}
-
 
 .sidebar-about h1 {
     font-size: 2.25rem;
@@ -112,12 +106,6 @@ html {
 @media (min-height: 28em) {
     .sidebar-about h1 {
         font-size: 3.25rem;
-    }
-}
-
-@media (min-width: 48em) {
-    .content {
-        margin-left: 23rem;
     }
 }
 
