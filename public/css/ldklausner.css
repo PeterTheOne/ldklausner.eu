@@ -109,6 +109,13 @@ html {
     }
 }
 
+
+.sidebar-nav-item {
+    display: inline-block;
+    margin: 0 0.5rem;
+    line-height: 1.75;
+}
+
 /*
  * Themes
  *
