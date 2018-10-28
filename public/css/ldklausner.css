@@ -109,11 +109,17 @@ html {
     }
 }
 
-
 .sidebar-nav-item {
     display: inline-block;
     margin: 0 0.5rem;
     line-height: 1.75;
+}
+
+@media (min-width: 48em) {
+    .sidebar-nav-item {
+        display: block;
+        margin: 0;
+    }
 }
 
 /*
