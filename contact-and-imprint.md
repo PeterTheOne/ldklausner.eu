@@ -9,7 +9,8 @@ navigation_weight: 40
         <i class="fas fa-envelope"></i>:
         &ensp;Lukas Daniel Klausner<br />
         &emsp;&emsp;Steinbachstraße 34–36<br />
-        &emsp;&emsp;3001 Mauerbach, Austria<br />
+        &emsp;&emsp;3001 Mauerbach<br />
+        &emsp;&emsp;Austria
     </li>
     <li>
         <i class="fas fa-at"></i>:
