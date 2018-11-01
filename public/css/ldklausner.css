@@ -126,6 +126,11 @@ img {
     }
 }
 
+.contact {
+    list-style: none;
+    padding-left: 1rem;
+}
+
 /*
  * Themes
  *
