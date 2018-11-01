@@ -12,3 +12,10 @@ ErrorDocument 404 /404.html
 		AddOutputFilterByType DEFLATE application/* text/* font/* image/x-icon image/svg+xml
 	</IfModule>
 </IfModule>
+<IfModule mod_headers.c>
+	Header set Content-Security-Policy "default-src 'self'; style-src 'self' 'unsafe-inline'; block-all-mixed-content;"
+	Header set X-Content-Type-Options nosniff
+	Header set X-Frame-Options deny
+	Header set X-XSS-Protection "1; mode=block"
+	Header set Strict-Transport-Security "max-age=31536000; preload"
+</IfModule>
