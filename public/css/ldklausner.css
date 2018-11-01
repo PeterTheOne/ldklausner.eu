@@ -126,6 +126,10 @@ img {
     }
 }
 
+.sidebar .copy {
+    font-size: 0.7rem;
+}
+
 .contact {
     list-style: none;
     padding-left: 1rem;
