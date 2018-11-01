@@ -148,6 +148,10 @@ img {
 }
 .theme-ldklausner .content a,
 .theme-ldklausner .related-posts li a:hover {
+    color: #005d88;
+}
+.theme-ldklausner .content a:visited,
+.theme-ldklausner .related-posts li a:visited {
     color: #004666;
 }
 
