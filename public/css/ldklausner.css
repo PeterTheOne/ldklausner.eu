@@ -88,6 +88,10 @@ html {
     font-family: 'Exo', Georgia, serif;
 }
 
+img {
+    border-radius: 0;
+}
+
 /* About section */
 .sidebar {
     overflow: hidden;
