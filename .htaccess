@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [L,R=301]
+Options +MultiViews
+DirectoryIndex index.html index.xml
+ErrorDocument 404 /404.html
+<IfModule mod_deflate.c>
+	<IfModule mod_filter.c>
+		SetOutputFilter DEFLATE
+		AddOutputFilterByType DEFLATE application/* text/* font/* image/x-icon image/svg+xml
+	</IfModule>
+</IfModule>
