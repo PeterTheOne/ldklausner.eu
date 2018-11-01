@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Home
 ---
 
 <img src="/public/images/lukas-daniel-klausner-360w.jpg" srcset="/public/images/lukas-daniel-klausner-360w.jpg, /public/images/lukas-daniel-klausner-720w.jpg 2x" alt="Lukas Daniel Klausner Portrait" style="width: 40%; float: right; margin: 0 0 0.5rem 1rem;" />
