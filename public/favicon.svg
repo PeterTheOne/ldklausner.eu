@@ -33,16 +33,16 @@
        height="26.458334"
        width="26.458334"
        id="rect4528"
-       style="fill:#0055aa;fill-opacity:1;stroke-width:0.21650018" />
+       style="fill:#005277;fill-opacity:1;stroke-width:0.21650018" />
     <text
        id="text4540"
        y="293.11591"
        x="6.2828698"
        style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-size:28.22222328px;fill:#ffffff;stroke-width:0.26458332"
-         y="293.11591"
-         x="6.2828698"
+         style="font-size:25px;fill:#ffffff;stroke-width:0.26458332"
+         y="292"
+         x="7"
          id="tspan4538">∴</tspan></text>
   </g>
 </svg>
