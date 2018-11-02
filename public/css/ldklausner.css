@@ -114,6 +114,12 @@ html {
     font-family: 'Exo', Georgia, serif;
 }
 
+@media (min-width: 58em) {
+    html {
+        font-size: 18px;
+    }
+}
+
 img {
     border-radius: 0;
 }
