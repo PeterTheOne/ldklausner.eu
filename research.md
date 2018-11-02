@@ -24,6 +24,6 @@ Previously, I was a graduate student of [Martin Goldstern](http://info.tuwien.ac
 * Gwendal Collet, Michael Drmota and Lukas Daniel Klausner: [_Vertex Degrees in Planar Maps_](http://aofa.tcs.uj.edu.pl/proceedings/aofa2016.pdf). Proceedings of the 27th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA '16), Jagiellonian Univ., Dep. Theor. Comput. Sci., Kraków, 2016, 42–57. [arXiv: 1605.04206 [math.CO]](https://arxiv.org/abs/1605.04206)
 
 ##### Theses
-* Lukas Daniel Klausner: [_Creatures and Cardinals_](TODO_LINKMISSING), PhD thesis, TU Wien 2018. Supervised by [Martin Goldstern](http://info.tuwien.ac.at/goldstern/).
+* Lukas Daniel Klausner: _Creatures and Cardinals_, PhD thesis, TU Wien 2018. Supervised by [Martin Goldstern](http://info.tuwien.ac.at/goldstern/).
 * Lukas Daniel Klausner: [_Coalgebras, Hopf Algebras and Combinatorics_](http://repositum.tuwien.ac.at/urn:nbn:at:at-ubtuw:1-44254), diploma thesis, TU Wien 2011. Supervised by [Michael Drmota](https://dmg.tuwien.ac.at/drmota/).
 * Lukas Daniel Klausner: _Symmetrische und schiefsymmetrische Tensoren_, bachelor thesis, TU Wien 2009. Supervised by [Hans Havlicek](http://www.geometrie.tuwien.ac.at/havlicek/).
