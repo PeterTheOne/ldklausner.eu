@@ -4,7 +4,6 @@ title: Research
 navigation_weight: 20
 ---
 
-# Research
 I have just started working with [Peter Kieseberg](https://www.fhstp.ac.at/en/about-us/staff-a-z/kieseberg-peter) and [Sebastian Schrittwieser](https://www.fhstp.ac.at/en/about-us/staff-a-z/schrittwieser-sebastian) in the [Institute of IT Security Research](https://www.fhstp.ac.at/en/research/institute-of-it-security-research) at the [St. Pölten University of Applied Sciences](http://fhstp.ac.at/), where I am doing research at the intersection of IT security, privacy and machine learning.
 
 Previously, I was a graduate student of [Martin Goldstern](http://info.tuwien.ac.at/goldstern/)'s in the [Institute of Discrete Mathematics and Geometry](https://dmg.tuwien.ac.at/)'s [Set Theory Research Group](https://dmg.tuwien.ac.at/fg1/ST.html) at [TU Wien](https://www.tuwien.ac.at/). My field of research was set theory, specifically, cardinal characteristics of the continuum, although I have also done some work in other areas of set theory. Before that, I worked in probabilistic combinatorics and discrete mathematics with [Michael Drmota](https://dmg.tuwien.ac.at/drmota/) in the  [Combinatorics and Algorithms Research Group](https://dmg.tuwien.ac.at/fg5/).
