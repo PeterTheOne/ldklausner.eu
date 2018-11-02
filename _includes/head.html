@@ -15,8 +15,8 @@
   </title>
   <meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}" />
 
-  <meta name="description" content="{{ page.content | strip_html | truncate: 300 }}">
-  <meta property="og:description" content="{{ page.content | strip_html | truncate: 300 }}" />
+  <meta name="description" content="{{ page.content | strip_html | strip_newlines | truncate: 300 }}">
+  <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 300 }}" />
 
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
