@@ -22,8 +22,8 @@ navigation_weight: 40
     </li>
 </ul>
 
-### Attribution
+# Attribution
 
-Photo by [Alexander Gotter](http://alexandergotter.com). Website design based on the [Jekyll](https://jekyllrb.com) theme [Hyde](http://hyde.getpoole.com) and customised by [Peter Grassberger](https://petergrassberger.com) using the Google Fonts [Vollkorn](https://fonts.google.com/specimen/Vollkorn) and [Exo](https://fonts.google.com/specimen/Exo) as well as [Font Awesome](https://fontawesome.com/) icons.
+Website design based on the [Jekyll](https://jekyllrb.com) theme [Hyde](http://hyde.getpoole.com) and customised by [Peter Grassberger](https://petergrassberger.com) using the Google Fonts [Vollkorn](https://fonts.google.com/specimen/Vollkorn) and [Exo](https://fonts.google.com/specimen/Exo) as well as [Font Awesome](https://fontawesome.com/) icons. Photo by [Alexander Gotter](http://alexandergotter.com).
 
 All content licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license unless noted otherwise.
