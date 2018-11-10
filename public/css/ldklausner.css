@@ -124,6 +124,12 @@ img {
     border-radius: 0;
 }
 
+.ldk-portrait {
+    width: 40%;
+    float: right;
+    margin: 0 0 0.5rem 1rem;
+}
+
 /* About section */
 .sidebar {
     overflow: hidden;

@@ -13,7 +13,7 @@ ErrorDocument 404 /404.html
 	</IfModule>
 </IfModule>
 <IfModule mod_headers.c>
-	Header set Content-Security-Policy "default-src 'none'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self'; block-all-mixed-content; form-action 'none'; base-uri 'none'; frame-ancestors 'none';"
+	Header set Content-Security-Policy "default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; block-all-mixed-content; form-action 'none'; base-uri 'none'; frame-ancestors 'none';"
 	Header set X-Content-Type-Options nosniff
 	Header set X-Frame-Options deny
 	Header set X-XSS-Protection "1; mode=block"
